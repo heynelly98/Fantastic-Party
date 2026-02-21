@@ -1,1 +1,84 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(94, 87, 187);
+    }
+
+header{background-color:hsl(0, 0%, 100%);
+color: rgb(50, 20, 88);
+padding: 30px;
+text-align: center;
+border-radius: 30px;
+border: 2px dashed rgb(255, 136, 0);
+font-size: 30px;
+}
+
+header a{color: darkorange;text-decoration: none; font-family: sans-serif;
+
+}
+h1 {color: rgb(50,20,88);
+text-align: center;
+
+}
+footer{background-color: blanchedalmond;
+padding: 20px;
+text-align: center;
+font-size: 30px;
+border:2px  dashed rgb(255, 136, 0);
+border-radius: 30px;
+color: rgb(50, 20, 88)
+
+}
+nav{ font-size: 20px;
+text-align: center;
+text-decoration: none;
+margin: 50px;
+
+} 
+.rfrregbnm{background-color: rgb(255, 136, 0);
+color: rgb(50, 20, 88);
+padding: 20px;
+margin: 20px;
+border-radius: 15px;
+border: 2px solid rgb(50, 20, 88);
+text-decoration: none;
+
+}
+.ghjlerwbz{padding: 15px;
+margin: 15px;
+border-radius: 15px;
+border: 2px solid rgb(50, 20, 88);
+background-color: gold;
+color: rgb(50, 20, 88);
+text-decoration: none;
+
+}
+.jgnjv{  padding: 15px;
+margin: 15px;
+border-radius: 15px;
+border: 2px solid rgb(50, 20, 88);
+background-color: gold;
+color: rgb(50, 20, 88);
+text-decoration: none;
+
+}
+select{font-size: 30px;
+text-align: center;
+background-color:rgb(255, 136, 0);
+
+}
+select option{background-color: rgb(50, 20, 88);
+color: rgb(255, 136, 0)}
+
+.ljl{background-color: rgb(255, 212, 119);
+padding: 30px;
+margin: 20px;
+text-align: center;
+border: 2px solid rgb(50, 20, 88);
+border-radius: 20px;
+
+}
+.kjk{border: 10px solid rgb(50, 20, 88);
+
+
+}
 
